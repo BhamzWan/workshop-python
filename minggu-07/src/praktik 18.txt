@@ -1,0 +1,5 @@
+f.readline()
+
+f.readline()
+
+f.readline()
